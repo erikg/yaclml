@@ -1,8 +1,8 @@
 # Boring file regexps:
 ~$
-^_darcs
-^\{arch\}
-^.arch-ids
+_darcs
+\{arch\}
+.arch-ids
 \#
 \.dfsl$
 \.ppcf$
@@ -10,6 +10,7 @@
 \.x86f$
 \.fas$
 \.lib$
-^docs/html
-^docs/pdf
-^logs/
+docs/html
+docs/pdf
+logs/
+.boring
