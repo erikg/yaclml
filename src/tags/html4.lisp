@@ -262,6 +262,7 @@ http://www.w3.org/TR/xhtml1/#guidelines"
                     width)
 
 (def-empty-html-tag <:input :core :event :i18n
+		    placeholder
                     accept
                     accesskey
                     alt
