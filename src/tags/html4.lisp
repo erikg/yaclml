@@ -187,6 +187,7 @@ http://www.w3.org/TR/xhtml1/#guidelines"
               name
               onreset
               onsubmit
+	      role
               target)
 
 (def-empty-html-tag <:frame :core
